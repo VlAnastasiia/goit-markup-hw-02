@@ -1,4 +1,165 @@
+/* index.html */
+
+.page
+{
+    background-color: #F5F5F5;
+}
+/* header backgrond */
+.header
+{
+    background-color: #FFFFFF;
+}
+
+/* header logo */
+
+.link-logo
+{
+    color: #2196F3;
+}
+
+.link-logo-part
+{
+    text-decoration: none;
+    color: #000000;
+}
+
+/* header links style */
+
+.list-nav .link
+{
+color: #212121;
+}
+
+.list-nav .link:hover,
+.list-nav .link:focus
+{
+    color: #2196F3;
+}
+
+/* contact info in header */
+
+.list-header .link
+{
+    color: #757575;
+}
+
+.list-header .link:hover,
+.list-header .link:focus
+{
+    color: #2196F3;
+}
+
+/* hide extra things */
+ul
+{
+    list-style: none;
+}
+
+/* Hero */
+
+.hero
+{
+    background-color: #2F303A;
+}
+
+.hero-title
+{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/* About features */
+
+.section 
+{
+    background-color: #FFFFFF;
+}
+
+.features .title 
+{
+    color: #212121;
+}
+
+.features .text
+{
+    color: #757575;
+}
+
+/* Our team */
+
+.section-team
+{
+    background-color: #F5F4FA;
+}
+
+.section-team .list
+{
+    background-color:  #FFFFFF;
+}
+
+.section-team .title
+{
+    color: #212121;
+    text-align: center;
+}
+
+.section-team .text
+{
+    color: #757575;
+    text-align: center;
+
+}
+/* Sections style */
+
+.section-title
+{
+    color: #212121;
+}
+
+/* Footer */
+
 .footer
 {
-    color: #2F303A;
+    background-color: #2F303A;
+}
+
+.logo-footer
+{
+    color: #2196F3;
+}
+.logo-footer-part
+{
+    color: #FFFFFF;
+}
+
+/* footer info */
+
+.address
+{
+    color: #FFFFFF;
+    font-style: normal;
+    padding-top: 20px;
+}
+
+.list-footer .link
+{
+    color: #FFFFFF;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+/* Portfolio.html */
+
+.body
+{
+    background-color: #FFFFFF;
+}
+
+/* Filter images */
+.section-main .list-item
+{
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    border-color: #EEEEEE;
+    
 }
